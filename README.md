@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Full codes and analysis can be viewed here: [Cusomter Segmentation Revenue Prediction for Online Retail](https://github.com/an-pk-chu/Customer-Segmentation-Revenue-Prediction-for-Online-Retail/blob/main/Customer_Segmentation_%26_Revenue_Prediction_for_Online_Retail.ipynb)
+Full codes and analysis can be viewed here: [Cusomter Segmentation Revenue Prediction for Online Retail](https://github.com/an-pk-chu/Customer-Segmentation-Revenue-Prediction-for-Online-Retail/blob/main/Customer_Segmentation_and_Prediction_Project.ipynb)
 
 This project involves analyzing customer data from an online retail store to derive insights and develop actionable business strategies. The analysis focuses on two main objectives:
 
