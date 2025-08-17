@@ -140,7 +140,6 @@ The following tools and libraries were used in the project:
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
-
-**Name**: [Your Name]  
-**Email**: [Your Email]  
-**GitHub**: [Your GitHub Profile]
+  
+**Email**: chuphankhanhan@gmail.com  
+**GitHub**: (https://github.com/an-pk-chu)
