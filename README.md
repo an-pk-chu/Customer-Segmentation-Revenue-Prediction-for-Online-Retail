@@ -88,9 +88,7 @@ The following tools and libraries were used in the project:
 
 ### **Revenue Prediction**
 - Linear regression model achieved an R² score of 0.72.
-- Key finding: `Quantity` is the strongest driver of revenue.
-
----
+- Key finding: Quantity (+1.02) as the strongest revenue driver and unit price (–0.05) as slightly negative; advised management to prioritize sales volume strategies (bundling, upselling, discounts) over price increases to maximize long-term growth.
 
 ## Visualizations
 1. **Cluster Visualization**: PCA plot showing customer segments.
